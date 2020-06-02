@@ -1,7 +1,7 @@
 site_name: Nextedy Systems
 site_description: 'Attach, preview and download the Polarion Work Item attachments as you dreamed from the first day.'
 site_author: Nextedy
-site_url: https://nextedy.github.io/media/
+site_url: https://pages.nextedy.com
 site_GTM_ID: GTM-PMZ3VRL
 site_HS_ID: 6265870
 
@@ -18,16 +18,6 @@ theme:
   custom_dir: 'theme'
   logo: 'https://www.nextedy.com/wp-content/uploads/2018/10/nextedy-logo.png'
 
-extra_css:
-  - 'extra/extra.css'
-  - 'extra/simpleLightbox.min.css'
-  - 'extra/semantic/dist/semantic.min.css'
-  
-extra_javascript:
-  - 'extra/extra.js'
-  - 'extra/simpleLightbox.min.js'
-  - 'extra/jquery-3.1.1.min.js'  
-  - 'extra/semantic/dist/semantic.min.js'  
   
 extra:
   product:
